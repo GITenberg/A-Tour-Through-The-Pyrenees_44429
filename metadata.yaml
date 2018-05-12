@@ -1,0 +1,55 @@
+_repo: A-Tour-Through-The-Pyrenees_44429
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dorè, Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translator:
+    agent_name: Fiske, John Safford
+    alias: Fiske, J. Safford (John Safford)
+    birthdate: 1837
+    deathdate: 1907
+    gutenberg_agent_id: '42754'
+    url: http://www.gutenberg.org/2009/agents/42754
+covers:
+- cover_type: archival
+  image_path: 44429-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Taine, Hippolyte
+    aliases:
+    - Graindorge, Frédéric-Thomas
+    - Taine, Hippolyte Adolphe
+    - Taine, H. A. (Hippolyte Adolphe)
+    - Graindorge, Frederic-Thomas
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '969'
+    url: http://www.gutenberg.org/2009/agents/969
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Hippolyte_Taine
+    - http://en.wikipedia.org/wiki/Hippolyte_Taine
+description: ''
+gutenberg_issued: '2013-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44429'
+  lccn: 04018598
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Pyrenees -- Description and travel'
+title: A Tour Through the Pyrenees
+url: http://www.gutenberg.org/ebooks/44429
