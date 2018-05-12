@@ -39,6 +39,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Hippolyte_Taine
     - http://en.wikipedia.org/wiki/Hippolyte_Taine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44429#A-Tour-Through-The-Pyrenees
 gutenberg_issued: '2013-12-14'
 gutenberg_type: Text
 identifiers:
